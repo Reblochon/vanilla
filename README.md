@@ -1,6 +1,6 @@
 Vanilla Music
 =====================
-
+THIS IS A FORK MEANT TO ADD ADAPTATIVE PLAYLISTS FOR OUR END OF STUDIES
 Vanilla Music player is a [GPLv3](LICENSE) licensed MP3/OGG/FLAC/PCM player for Android with the following features:
 * multiple playlist support
 * grouping by artist, album or genre
